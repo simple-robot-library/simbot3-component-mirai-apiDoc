@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":simbot-component-mirai-core:dokkaHtmlPartial/main":[],":simbot-component-mirai-api:dokkaHtmlPartial/main":[]}'
